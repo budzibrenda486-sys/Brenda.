@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: poppins,sans-serif;
+}
+.nav_link{
+  width: 100%;
+  min-height: 100vh;
+  background: url('hills.jpeg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover
+}
+button{
+  background-color:#ffff;
+  cursor: pointer;
+
+}
+.nav_logo{
+  color: #000;
+}
